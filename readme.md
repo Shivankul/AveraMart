@@ -103,8 +103,7 @@ This is a personal learning project.
 Feel free to fork, explore, and improve it! 🤝
 
 👤 Author
-Ayush
-- 📧 palayush930592@gmail.com
-- 🔗 https://github.com/ayush1944
+Shivankul
+- 🔗 https://github.com/Shivankul
 
 ⚙️ NakliZon is a minimal e-commerce practice project built to enhance MERN stack development skills.
